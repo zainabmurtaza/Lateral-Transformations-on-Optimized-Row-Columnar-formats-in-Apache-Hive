@@ -1,0 +1,2 @@
+# Lateral-Transformations-on-Optimized-Row-Columnar-formats-in-Apache-Hive
+Used Hive to analyze derived data from the geolocation and trucks tables. The business objective is to better understand the risk the company is under from fatigue of drivers, over-used trucks, and the impact of various trucking events on risk. In order to accomplish this, we will apply a series of lateral transformations to the source data, mostly though SQL but stored in optimized row columnar formats to work well with Hive.
